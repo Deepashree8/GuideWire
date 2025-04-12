@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """GW2.ipynb
 Original file is located at
     https://colab.research.google.com/drive/1kACBG7nebqOjqhS9_k7B8YIyzfTM20n4
